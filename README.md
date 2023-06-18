@@ -1,2 +1,2 @@
 # Py-ET
-Linkedin Python Course Notes
+Python Course Notes (LinkedIn, edX, etc.)
